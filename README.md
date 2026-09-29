@@ -61,6 +61,19 @@ I lead Android development for Hiatus, a US fintech platform that helps people t
 - **Team:** cross-functional Scrum with iOS, backend and product in a fully remote US environment, using Linear, Figma, CircleCI, Slack, Sentry and Segment.
 - **Agentic workflows:** adopted Claude Code, Cursor, Gemini and JetBrains AI to speed up feature delivery and code reviews.
 
+## Showcase repositories
+Open-source reference projects from [Artificialss](https://github.com/Artificialss) that show how I build on each platform. Each one uses real patterns and live data, with no placeholders.
+
+| Platform | Repository | What it demonstrates |
+|---|---|---|
+| **Rust** | [CryptoAlly-API](https://github.com/Artificialss/CryptoAlly-API) | A production Rust API with clean architecture, serving historical price and catalog data for crypto, US stocks and ETFs, commodities and international markets. axum on Vercel's Rust runtime with Neon Postgres, sqlx with parameterized queries, newtypes, API-key authentication with hashed keys, and end-to-end tests against in-memory fakes. Live at [cryptoally.dev](https://www.cryptoally.dev/). |
+| **Web** | [Showcase.NextJS](https://github.com/Artificialss/Showcase.NextJS) | A standalone Next.js 16 and TypeScript landing page with the App Router, server and client component boundaries, next-themes dark mode, font optimization and hand-built UI primitives with no bloated dependencies. |
+| **Android** | [Showcase.Android](https://github.com/Artificialss/Showcase.Android) | A native Android app in Kotlin and Jetpack Compose with MVVM and clean architecture, Koin dependency injection and type-safe Navigation Compose routes. |
+| **iOS** | [Showcase.iOS](https://github.com/Artificialss/Showcase.iOS) | A native iOS app in Swift and SwiftUI with MVVM, clean architecture and the modern Observable state pattern. |
+| **Multiplatform** | [Showcase.CMM](https://github.com/Artificialss/Showcase.CMM) | A Compose Multiplatform app built end to end with Claude Code under a strict architecture spec (MVP, Koin, Room and live APIs). |
+
+Portfolio: [artificialss.ai/portfolio](https://artificialss.ai/portfolio)
+
 ## Notable projects
 - **Artificialss platform:** ethical AI lab with agentic code and design, agentic pipelines, AI integrations, AI-powered legal tech tools and an AI Academy. [artificialss.ai](https://artificialss.ai/)
 - **Hiatus:** US fintech subscription-management Android app with 1M+ users, in Kotlin, Jetpack Compose and Stripe.
