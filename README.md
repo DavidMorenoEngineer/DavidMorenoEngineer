@@ -32,7 +32,7 @@ Beyond the day-to-day work:
 | **Mobile: cross-platform** | Flutter, Dart, BLoC, Cupertino, Xamarin, Kotlin Multiplatform, Compose Multiplatform |
 | **Mobile: iOS** | Swift, SwiftUI, MVC and MVVM, Xcode, Objective-C |
 | **Backend and APIs** | REST, GraphQL, Firebase, Supabase, Neon, PostgreSQL, Vercel, Python, TypeScript |
-| **Web and frontend** | Next.js, Astro, Panda CSS, HTML |
+| **Web and frontend** | Rust and Dioxus, Next.js, Astro, Panda CSS, HTML |
 | **Rust** | Rust, axum, sqlx, Dioxus |
 | **Dev practices** | Scrum and Agile, TDD, JUnit, Mockito, Espresso, CI/CD, Bitrise, Jira, Git, Linear, Segment, Figma, Gitflow |
 | **Agentic AI design** | Claude Design, Google Stitch, Figma |
