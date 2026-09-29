@@ -66,11 +66,11 @@ Open-source reference projects from [Artificialss](https://github.com/Artificial
 
 | Platform | Repository | What it demonstrates |
 |---|---|---|
-| **Rust** | [CryptoAlly-API](https://github.com/Artificialss/CryptoAlly-API) | A production Rust API with clean architecture, serving historical price and catalog data for crypto, US stocks and ETFs, commodities and international markets. axum on Vercel's Rust runtime with Neon Postgres, sqlx with parameterized queries, newtypes, API-key authentication with hashed keys, and end-to-end tests against in-memory fakes. Live at [cryptoally.dev](https://www.cryptoally.dev/). |
-| **Web** | [Showcase.NextJS](https://github.com/Artificialss/Showcase.NextJS) | A standalone Next.js 16 and TypeScript landing page with the App Router, server and client component boundaries, next-themes dark mode, font optimization and hand-built UI primitives with no bloated dependencies. |
-| **Android** | [Showcase.Android](https://github.com/Artificialss/Showcase.Android) | A native Android app in Kotlin and Jetpack Compose with MVVM and clean architecture, Koin dependency injection and type-safe Navigation Compose routes. |
-| **iOS** | [Showcase.iOS](https://github.com/Artificialss/Showcase.iOS) | A native iOS app in Swift and SwiftUI with MVVM, clean architecture and the modern Observable state pattern. |
-| **Multiplatform** | [Showcase.CMM](https://github.com/Artificialss/Showcase.CMM) | A Compose Multiplatform app built end to end with Claude Code under a strict architecture spec (MVP, Koin, Room and live APIs). |
+| **Rust** | [cryptoally-api](https://github.com/Artificialss/cryptoally-api) | A production Rust API with clean architecture, serving historical price and catalog data for crypto, US stocks and ETFs, commodities and international markets. axum on Vercel's Rust runtime with Neon Postgres, sqlx with parameterized queries, newtypes, API-key authentication with hashed keys, and end-to-end tests against in-memory fakes. Live at [cryptoally.dev](https://www.cryptoally.dev/). |
+| **Web** | [showcase-nextjs](https://github.com/Artificialss/showcase-nextjs) | A standalone Next.js 16 and TypeScript landing page with the App Router, server and client component boundaries, next-themes dark mode, font optimization and hand-built UI primitives with no bloated dependencies. |
+| **Android** | [showcase-android](https://github.com/Artificialss/showcase-android) | A native Android app in Kotlin and Jetpack Compose with MVVM and clean architecture, Koin dependency injection and type-safe Navigation Compose routes. |
+| **iOS** | [showcase-ios](https://github.com/Artificialss/showcase-ios) | A native iOS app in Swift and SwiftUI with MVVM, clean architecture and the modern Observable state pattern. |
+| **Multiplatform** | [showcase-cmm](https://github.com/Artificialss/showcase-cmm) | A Compose Multiplatform app built end to end with Claude Code under a strict architecture spec (MVP, Koin, Room and live APIs). |
 
 Portfolio: [artificialss.ai/portfolio](https://artificialss.ai/portfolio)
 
