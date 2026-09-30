@@ -34,6 +34,7 @@ Beyond the day-to-day work:
 | **Backend and APIs** | REST, GraphQL, Firebase, Supabase, Neon, PostgreSQL, Vercel, Python, TypeScript |
 | **Web and frontend** | Rust and Dioxus, WebAssembly (Wasm), Next.js, Astro, HTML, CSS, Panda CSS |
 | **Rust** | Rust, axum, sqlx, Dioxus |
+| **Deployment and hosting** | Vercel, Cloudflare Pages and Workers, cPanel hosting, Wrangler, GitHub Actions, Neon, Firebase and Supabase platforms |
 | **Dev practices** | Scrum and Agile, TDD, JUnit, Mockito, Espresso, CI/CD, Bitrise, Jira, Git, Linear, Segment, Figma, Gitflow |
 | **Agentic AI design** | Claude Design, Google Stitch, Figma |
 
