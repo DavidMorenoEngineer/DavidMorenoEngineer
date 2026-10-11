@@ -13,6 +13,7 @@ I am the founder and CTO of Artificialss, a Costa Rican Software & AI Ethical La
 - **MVP (Minimum Viable Product) engineering:** turning an idea into a working, deployed first version quickly, with a foundation that can grow into a production system.
 - **Product end-to-end development:** from idea, design and architecture through implementation, testing, release and iteration.
 - **Full-stack Rust systems:** axum APIs, sqlx and Postgres, Dioxus frontends and shared types, organized as a hexagonal Cargo workspace.
+- **Rust and WebAssembly products:** one Rust engine compiled to WebAssembly and shared by a web app, an npm package, a Kotlin library and an MCP server, so every platform gives identical results (Lettras).
 - **Deployment engineering with Vercel:** preview deployments per pull request, production releases, environment management and serverless Rust and Next.js functions.
 - **SDK and service integrations:**
   - **Payments and subscriptions:** Stripe, App Store and Google Play subscriptions and in-app purchases.
@@ -32,8 +33,8 @@ Beyond the day-to-day work:
 | **Mobile: cross-platform** | Flutter, Dart, BLoC, Cupertino, Xamarin, Kotlin Multiplatform, Compose Multiplatform |
 | **Mobile: iOS** | Swift, SwiftUI, MVC and MVVM, Xcode, Objective-C |
 | **Backend and APIs** | REST, GraphQL, Firebase, Supabase, Neon, PostgreSQL, Vercel, Python, TypeScript |
-| **Web and frontend** | Rust and Dioxus, WebAssembly (Wasm), Next.js, Astro, HTML, CSS, Panda CSS |
-| **Rust** | Rust, axum, sqlx, Dioxus |
+| **Web and frontend** | Rust and Dioxus, WebAssembly (Wasm), Next.js, React, next-intl, Tailwind, Astro, HTML, CSS, Panda CSS |
+| **Rust** | Rust, axum, sqlx, Dioxus, WebAssembly (wasm-bindgen), MCP servers, shared engines for npm and Kotlin |
 | **Dev practices** | Scrum and Agile, TDD, JUnit, Mockito, Espresso, CI/CD, Bitrise, Jira, Git, Linear, Segment, Figma, Gitflow |
 | **Agentic AI design** | Claude Design, Google Stitch, Figma |
 
@@ -67,14 +68,17 @@ Open-source reference projects from [Artificialss](https://github.com/Artificial
 | Platform | Repository | What it demonstrates |
 |---|---|---|
 | **Rust** | [CryptoAlly-API](https://github.com/Artificialss/CryptoAlly-API) | A production Rust API with clean architecture, serving historical price and catalog data for crypto, US stocks and ETFs, commodities and international markets. axum on Vercel's Rust runtime with Neon Postgres, sqlx with parameterized queries, newtypes, API-key authentication with hashed keys, and end-to-end tests against in-memory fakes. Live at [cryptoally.dev](https://www.cryptoally.dev/). |
+| **SDK and MCP** | [lettras-sdk](https://github.com/Artificialss/lettras-sdk) | A public SDK for the Lettras word-search generator: a Rust engine compiled to WebAssembly, wrapped as an npm package (JavaScript and TypeScript, plus a CLI), a Kotlin library on Maven Central and a Rust MCP server on Vercel, published to the official MCP Registry. |
 | **Web** | [Showcase.NextJS](https://github.com/Artificialss/Showcase.NextJS) | A standalone Next.js 16 and TypeScript landing page with the App Router, server and client component boundaries, next-themes dark mode, font optimization and hand-built UI primitives with no bloated dependencies. |
 | **Android** | [Showcase.Android](https://github.com/Artificialss/Showcase.Android) | A native Android app in Kotlin and Jetpack Compose with MVVM and clean architecture, Koin dependency injection and type-safe Navigation Compose routes. |
 | **iOS** | [Showcase.iOS](https://github.com/Artificialss/Showcase.iOS) | A native iOS app in Swift and SwiftUI with MVVM, clean architecture and the modern Observable state pattern. |
 | **Multiplatform** | [Showcase.CMM](https://github.com/Artificialss/Showcase.CMM) | A Compose Multiplatform app built end to end with Claude Code under a strict architecture spec (MVP, Koin, Room and live APIs). |
+| **Flutter** | [showcase-flutter](https://github.com/Artificialss/showcase-flutter) | A Flutter and Dart app with Clean Architecture, BLoC state management, GetIt dependency injection and Freezed immutable models. |
 
 Portfolio: [artificialss.ai/portfolio](https://artificialss.ai/portfolio)
 
 ## Notable projects
+- **Lettras:** a free word-search maker for teachers in six languages ([lettras.org](https://lettras.org)). Next.js 16 and React 19 on Vercel, a Rust engine compiled to WebAssembly, Supabase for the dictionary, Firebase Analytics behind consent, and a public SDK (npm, Maven Central and MCP).
 - **Artificialss platform:** ethical AI lab with agentic code and design, agentic pipelines, AI integrations, AI-powered legal tech tools and an AI Academy. [artificialss.ai](https://artificialss.ai/)
 - **Hiatus:** US fintech subscription-management Android app with 1M+ users, in Kotlin, Jetpack Compose and Stripe.
 - **ATHMovil:** Latin America's leading mobile payments platform, on Android and Flutter, with 10M+ users.
