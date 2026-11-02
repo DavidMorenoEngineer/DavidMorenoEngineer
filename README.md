@@ -86,10 +86,12 @@ Portfolio: [artificialss.ai/portfolio](https://artificialss.ai/portfolio)
 - **ATHMovil Android and Flutter SDK:** public merchant payment integration SDK for Flutter and Kotlin.
 - **D3 Digital Banking:** white-label mobile banking for US credit unions, on Android with MVP (Model-View-Presenter) and Dagger 2.
 
-## Education and learning
+## Education
 - Baccalaureate in Business Informatics, University of Costa Rica (UCR), 2018
 - Master of Science in Information Technology (MSIT), University of the People (in progress)
-- Specialization in Enterprise Artificial Intelligence, Costa Rica Institute of Technology (TEC), Sep 2026 to Feb 2027
+
+## Certifications and continuous learning
+- 2026 to 2027: Specialization in Enterprise Artificial Intelligence, Costa Rica Institute of Technology (TEC), Sep 2026 to Feb 2027
 - 2026: Technical Agents of Change (agentic coding and context engineering); Building Industry-Level Multiplatform Apps With Kotlin Multiplatform; Ultimate Compose Multiplatform
 - 2020: Complete Kotlin Development Masterclass; Mastering Kotlin: Null Safety; Flutter and Firebase
 - 2019: Firebase and Firestore Masterclass; Android Jetpack Masterclass (Kotlin); Flutter and Dart; Xamarin Forms 4.0 with ASP.NET Core API
