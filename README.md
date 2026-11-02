@@ -92,10 +92,25 @@ Portfolio: [artificialss.ai/portfolio](https://artificialss.ai/portfolio)
 - Specialization in Enterprise Artificial Intelligence, Costa Rica Institute of Technology (TEC), Sep 2026 to Feb 2027
 
 ## Certifications and continuous learning
-- 2026: Technical Agents of Change (agentic coding and context engineering); Building Industry-Level Multiplatform Apps With Kotlin Multiplatform; Ultimate Compose Multiplatform
-- 2020: Complete Kotlin Development Masterclass; Mastering Kotlin: Null Safety; Flutter and Firebase
-- 2019: Firebase and Firestore Masterclass; Android Jetpack Masterclass (Kotlin); Flutter and Dart; Xamarin Forms 4.0 with ASP.NET Core API
-- 2016: Microsoft Xamarin Basic Diploma
+
+**2026**
+- Technical Agents of Change (agentic coding and context engineering)
+- Building Industry-Level Multiplatform Apps With Kotlin Multiplatform
+- Ultimate Compose Multiplatform
+
+**2020**
+- Complete Kotlin Development Masterclass
+- Mastering Kotlin: Null Safety
+- Flutter and Firebase
+
+**2019**
+- Firebase and Firestore Masterclass
+- Android Jetpack Masterclass (Kotlin)
+- Flutter and Dart
+- Xamarin Forms 4.0 with ASP.NET Core API
+
+**2016**
+- Microsoft Xamarin Basic Diploma
 
 ## Connect
 | | |
