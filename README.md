@@ -1,10 +1,10 @@
 # David Antonio Moreno
 
-**Founder & CTO at [Artificialss](https://artificialss.ai/) · Agentic AI Engineer · Mobile-First Fullstack Engineer**
+**Co-Founder & CEO at [Artificialss](https://artificialss.ai/) · Lead Product & Mobile Full-Stack Engineer · Specialized in Context Engineering and Applied AI**
 
-**San José, Costa Rica and Sacramento, CA · Dual citizen (Costa Rica and USA) · Bilingual English and Spanish**
+**Turrialba, Costa Rica and Sacramento, CA · Dual citizen (Costa Rica and USA) · Bilingual English and Spanish**
 
-I am the founder and CTO of Artificialss, a Costa Rican Software & AI Ethical Labs, and a Senior Mobile Engineer with 8+ years shipping production-grade mobile applications for US and international clients. I design and build multi-agent AI systems, agentic workflows powered by Claude Code and the Anthropic API, and AI-integrated mobile products. My depth is in Android (Kotlin and Jetpack Compose), cross-platform development (Flutter, Dart, KMP and CMP) and clean architecture at scale, and I care about ethical AI, rapid prototyping and building software that solves real problems, from fintech and digital banking to legal tech and Spanish-language AI education.
+I am the co-founder and CEO of Artificialss, a Costa Rican Software & AI Ethics Lab, and a Lead Product & Mobile Full-Stack Engineer with 8+ years shipping production-grade mobile applications for US and international clients. I specialize in mobile-first development and high-velocity software architecture, with end-to-end ownership of digital products: from business conception and complex data extraction and processing to native programming (Kotlin, Rust, Swift, Dart, TypeScript) and production deployment. I use context engineering and AI-assisted workflows (Claude Code, the Anthropic API, multi-agent systems) as a technical exoskeleton to audit code, automate CI/CD and run multiple software ecosystems in parallel at enterprise-grade quality. My depth is in Android (Kotlin and Jetpack Compose), cross-platform development (Flutter, Dart, KMP and CMP) and clean architecture at scale, from fintech and digital banking to legal tech and Spanish-language AI education.
 
 ## What I do, day to day
 - **Software engineering:** designing, building, reviewing and shipping production code across mobile, backend and web.
@@ -28,7 +28,8 @@ Beyond the day-to-day work:
 ## Core competencies
 | Area | Stack |
 |---|---|
-| **Agentic AI and LLM** | Claude API, Claude Code, Anthropic SDK, Cursor, Codex, multi-agent systems, AI workflow automation, LLM integrations (JetBrains AI, Gemini, DeepSeek), document processing pipelines, post-quantum cryptography |
+| **Context engineering and applied AI** | Context engineering, Claude API, Claude Code, Anthropic SDK, Cursor, Codex, multi-agent systems, AI workflow automation, LLM integrations (JetBrains AI, Gemini, DeepSeek), document processing pipelines, post-quantum cryptography |
+| **Product engineering** | End-to-end product delivery, business conception, data extraction and processing, high-velocity architecture, production deployment, multi-ecosystem management |
 | **Mobile: Android** | Kotlin, Jetpack Compose, Android SDK, MVVM, MVI, MVC and MVP, Ktor, clean architecture, coroutines, Dagger and Hilt, Room, Ads, in-app purchases, Material Design 3 |
 | **Mobile: cross-platform** | Flutter, Dart, BLoC, Cupertino, Xamarin, Kotlin Multiplatform, Compose Multiplatform |
 | **Mobile: iOS** | Swift, SwiftUI, MVC and MVVM, Xcode, Objective-C |
@@ -41,8 +42,8 @@ Beyond the day-to-day work:
 ## Experience
 | Role | Company | Period |
 |---|---|---|
-| Senior Android Engineer | **Hiatus Inc.** (US fintech, remote) | May 2022 to present |
-| Founder & CTO | **Artificialss**, Software & AI Ethical Labs | 2026 to present |
+| Senior Android Engineer | **Hiatus Inc.** (US fintech, remote, full time) | May 2022 to present |
+| Co-Founder, CEO & Product Engineer | **Artificialss**, Software & AI Ethics Lab (part time) | Apr 2026 to present |
 | Mobile Technical Lead | Freelance: Panza, Softon, OMNi, Portafolio | Jul 2019 to May 2026 |
 | Android Engineer | NCR Corporation (via Optomi), D3 Digital Banking | Nov 2021 to Apr 2022 |
 | Senior Mobile Developer | Evertec Inc., ATHMovil | Sep 2019 to Dec 2021 |
@@ -90,6 +91,9 @@ Portfolio: [artificialss.ai/portfolio](https://artificialss.ai/portfolio)
 - Master of Science in Information Technology (MSIT), University of the People (in progress)
 - Specialization in Enterprise Artificial Intelligence, Costa Rica Institute of Technology (TEC), Sep 2026 to Feb 2027
 - 2026: Technical Agents of Change (agentic coding and context engineering); Building Industry-Level Multiplatform Apps With Kotlin Multiplatform; Ultimate Compose Multiplatform
+- 2020: Complete Kotlin Development Masterclass; Mastering Kotlin: Null Safety; Flutter and Firebase
+- 2019: Firebase and Firestore Masterclass; Android Jetpack Masterclass (Kotlin); Flutter and Dart; Xamarin Forms 4.0 with ASP.NET Core API
+- 2016: Microsoft Xamarin Basic Diploma
 
 ## Connect
 | | |
